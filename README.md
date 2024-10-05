@@ -2,9 +2,7 @@
 
 
 open instagram using browser and login
-then copy and paste this code into the browsers console and you will get a result simillar to this:
-![image](https://github.com/user-attachments/assets/3df2f062-6bb4-4160-811a-8f4d48fc00ca)
-
+then copy and paste this code into the browsers console.
 ```
 const username = "USER_NAME_HERE";
 
