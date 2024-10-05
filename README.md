@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/557858f0-dda2-4c8b-aae4-36c1b40cd3eb)# instagram-unfollowers-using-browser
 
 
 open instagram using browser and login
-then copy and paste this code into the browsers console.
+then copy and paste this code into the browsers console the result will be like this:
+![image](https://github.com/user-attachments/assets/557858f0-dda2-4c8b-aae4-36c1b40cd3eb)# instagram-unfollowers-using-browser
+no third-party apps needed.
 ```
 const username = "USER_NAME_HERE";
 
