@@ -126,4 +126,5 @@ iDontFollowBack = [];
 ```
 
 wait a few seconds and you will see the result.
+
 note: put your own username as the username variable
